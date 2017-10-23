@@ -6,3 +6,24 @@ Task:
 
 Content:
 
+1.1 This report focus on donation of organ for medical treatment or research.
+
+"source" -> donor of the material
+
+"need" -> seeking health, or better health than present.
+
+more issues desides organ donation:
+1. bodily material which has potential 
+2. many purposes for which they can be used
+3. relationship inbetween donor and recipient
+4. role of organisations
+
+
+//Scope of human bodily material and use
+1. blood and blood products
+2. solid organ
+3. tissue(bone, skin...)
+4. material related to reproduction
+5. living body for medical purpose
+6. dead body for education, training or research
+
